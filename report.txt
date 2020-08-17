@@ -1,0 +1,122 @@
+The initial position of the camera in world coordinates is:
+ 
+[1009.81285758 1038.05104736  626.75481491]
+
+
+The initial angle of the camera: 
+ 
+[ 0.          0.         -0.22391943]
+
+
+After 1th iteration
+The delta vector is:
+[-1.47714516e-02 -1.40108953e-02  8.69675748e-01 -1.18701294e+01
+  1.22034742e+01  8.55940655e+02]
+The norm of delta is:
+856.1103822822838
+
+
+After 2th iteration
+The delta vector is:
+[-1.36165897e-01  5.52274054e-02  2.12676557e+00  9.85450955e+01
+  2.43977884e+02  5.65709318e+01]
+The norm of delta is:
+269.1489524722375
+
+
+After 3th iteration
+The delta vector is:
+[ 2.47317963e-01 -1.75610566e-01 -2.07414301e+00 -3.09642833e+02
+ -5.29303260e+02 -4.64691750e+02]
+The norm of delta is:
+769.4046016727144
+
+
+After 4th iteration
+The delta vector is:
+[-2.53909049e-01 -3.65424871e-02  1.53303043e+00  2.12225571e+02
+  3.00594247e+02  3.53740949e+02]
+The norm of delta is:
+510.4230297911609
+
+
+After 5th iteration
+The delta vector is:
+[ 6.27382990e-01  4.54340870e-01 -8.97861649e-01  2.30983959e+02
+ -9.59709816e+02 -1.41112749e+03]
+The norm of delta is:
+1722.1146044260113
+
+
+After 6th iteration
+The delta vector is:
+[1.09847814e-01 1.35706811e-01 1.94096819e-01 2.23552756e+02
+ 3.22217004e+02 1.84325637e+02]
+The norm of delta is:
+433.3308679622077
+
+
+After 7th iteration
+The delta vector is:
+[-1.44215378e-01 -4.51076116e-04  1.20962139e-01 -2.99316095e+01
+  2.06136100e+02  3.15970820e+02]
+The norm of delta is:
+378.4515656375767
+
+
+After 8th iteration
+The delta vector is:
+[-4.01168269e-01 -4.06075885e-01  2.14729881e-01 -3.11239880e+02
+  2.42229881e+02  3.67537313e+02]
+The norm of delta is:
+539.100757333042
+
+
+After 9th iteration
+The delta vector is:
+[-6.68119848e-02  1.96399022e-02 -9.13972660e-02 -1.18318906e+02
+  2.43636300e+02 -3.14308337e+02]
+The norm of delta is:
+414.9069222568956
+
+
+After 10th iteration
+The delta vector is:
+[ 1.85609892e-02 -8.04278351e-03  2.10267726e-02  3.00741283e+01
+ -6.36173625e+01  6.94156144e+01]
+The norm of delta is:
+98.84407108558437
+
+
+After 11th iteration
+The delta vector is:
+[ 6.45491503e-03 -2.95508330e-03  1.25896597e-03  3.66151327e+00
+ -1.19173101e+01  8.01668329e+00]
+The norm of delta is:
+14.82215308616579
+
+
+After 12th iteration
+The delta vector is:
+[ 1.70753894e-04 -6.58638636e-05 -2.70668062e-05  1.75971400e-02
+ -2.53171610e-01  3.82213445e-02]
+The norm of delta is:
+0.2566445577441134
+
+
+After 13th iteration
+The delta vector is:
+[ 7.42750215e-08  6.14321116e-08 -1.33965047e-08  5.41629915e-05
+ -7.55843458e-05 -3.64717196e-05]
+The norm of delta is:
+9.988402664312517e-05
+
+
+The final position of the camera in world coordinates is:
+ 
+[1027.87017474 1044.24494049  648.18403079]
+
+
+The final angle of the camera: 
+ 
+[-0.00730653  0.02116041  1.79419789]
